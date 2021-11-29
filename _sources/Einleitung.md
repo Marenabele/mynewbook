@@ -1,0 +1,18 @@
+# Beitrag 1 - Einleitung
+
+Für mein Projekt im Modul „Data Storytelling“ wollte ich zunächst ein Dashboard für mein Team bei meiner Werkstudententätigkeit erstellen. Ich arbeite bei der Believe Digital GmbH in Hamburg remote aus Stuttgart. 
+
+Die GmbH gehört zum Mutterunternehmen „Believe SAS“ mit dem Headquarter in Paris. Zu Believe gehören über 20 Musikmarken, Labels und Dienstleistungsunternehmen wie zum Beispiel: TuneCore, Allpoints, Nuclear Blast und Naïve (Believe GmbH, o.J.). Ich arbeite im Trademarketing für Metal und Rock-Themen weltweit. Diese Abteilung lässt sich am besten als Bindeglied zwischen den Label- und Artist Managern und den Streaming-Plattformen beschreiben. Die Label- und Artistmanager liefern die Daten und Informationen für einen Release an und berichten uns über ihre wichtigsten- und ihre Highlight-Produkte. Diese Daten werden dann vom Trademarketing verarbeitet, an die Stores geschickt und anmoderiert. Zudem kommen die Highlights in den B2B-Newsletter, welcher an die Partner verschickt wird. Typischerweise wird freitags neue Musik veröffentlicht. Da an jedem Freitag allerdings zu viel Musik veröffentlicht wird, um für jeden Song eine gesonderte Mail an die Stores zu schicken oder sie alle in den Newsletter zu packen, gibt es noch die jeweiligen Pitching-Prozesse. Hier werden den Stores alle Informationen, die sie benötigen kurz und knapp übermittelt. Dies wird bei allen Stores anders gehandhabt. Außerdem übernimmt das Trademarketing eine beratende Funktion zu den Themen wie beispielsweise der Release- und Marketing Strategie, sowie zum Aufbau einer Fangemeinde und steigenden Streaming Zahlen mit Hilfe von Kampagnen, über einen gewissen Kampagnen-Zeitraum hinweg. Zudem werden Marketingaktionen, die von den einzelnen Streaming Plattformen angeboten werden, mit den Label- und Artist Managern abgesprochen und umgesetzt. 
+
+Ich musste mir dann etwas anderes Suchen. Ich wollte im Thema Musik bleiben. Ich habe die Seite Kaggle durchsucht und verschiedene Datenstätze zu Spotify gefunden. Unter anderem einen Datensatz zur Top200. In dieser Playlist sind die Top200 aus jeden Tag gemessen anhand der Streams bei Spotify. Ich finde diesen Datensatz interessant, da es das Genre der Titel enthält. Da der Datensatz am 01.01.2017 startet und am 17.07.2021 endet kann ich sehr gut untersuchen, ob es einen Wandel in den Genres in dieser Playlist über die Jahre gegeben hat. Deshalb habe ich mich letzten Endes für diesen (VERLINKEN) Datensatz entschieden.
+
+Meine **Hauptfrage**, die ich aus Spotify-Sicht beantworten möchte, lautet: 
+**Wie haben sich die Genres der Top Songs auf Spotify innerhalb der letzten Jahre verändert?**
+
+Diese Frage ist für Spotify wichtig, um entscheiden zu können, welche Playlisten für die User interessant sein könnten. Bei Spotify gibt es verschiedene Arten von Playlisten, die von den Mitarbeitern zusammengestellt werden. Es gibt für jedes Genre Playlisten. Hier könnte es aber auffallen, dass ein Genre sehr heraussieht und man sich auf dieses Genre in der nächsten Zeit fokussieren sollte. Außerdem hat Spotify für große Playlisten sogar eigene Social Media Accounts mit Aktionen. Hier könnte hergeleitet werden, für welche Zielgruppe dieser Aufwand betrieben werden sollte, um eine möglichst große Zielgruppe zu erreichen. 
+
+**Quellen:**
+
+Believe GmbH [Believe] (o.J.): Übersicht. [Über uns Beitrag], LinkedIn, <https://www.linkedin.com/company/believeglobal/about/> [Stand: 25.11.2021]. 
+
+Natarov, I. (2021, 24. August). Spotify daily top 200 songs with genres 2017–2021 (Version 6) [Data on the daily top 200 tracks according to spotify data 2017–2021]. Kaggle. <https://www.kaggle.com/ivannatarov/spotify-daily-top-200-songs-with-genres-20172021> [Stand: 25.11.2021]
